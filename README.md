@@ -1,6 +1,6 @@
 **PhD in Computing**<br />
 **Boise State University**  
-**Comprehensive Exam - Computing Artifact**
+**Computing Artifact**
 
 In this study we use the Flexible Opensource workbench for Side-channel analysis platform (FOBOS) to evaluate hardware implementations of Lightweight Authenticated Ciphers on Field Programmable Gate Arrays (FPGAs). Although the majority of the setup follows the  [FOBOS 2.0 guide](https://cryptography.gmu.edu/documentation/fobos/introduction.html) there are some modifications needed to ensure that the side-channel attack can be effectively performed on the cryptographic algorithm. In this computing artifact we have included the required files.
 
